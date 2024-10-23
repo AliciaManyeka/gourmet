@@ -477,13 +477,13 @@ text-shadow:  rgb(211, 67, 168);
 }
 
 .order .row .image {
-    flex: 1 1 20rem;
+     flex: 1 1 20rem; 
     background: transparent; 
 }
 
 
 .order .row .image img {
-    height: 100%;
+    height: 70%;
     width: 100%;
     object-fit: cover;
     border-radius: .5rem;
